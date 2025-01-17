@@ -38,9 +38,9 @@ the `Battery Pack` is designed for use with the `BMS_IIT1A-11S-50APK_PCA`. There
 
 The normal operation of the `Battery Pack` is that, in the absence of the above alarms, it is ready to supply current with the power contacts closed. 
 
-!!!warning
-    Pay absolute attention to the power contacts, the `Battery Pack` exposes the contacts so that they can be inserted into the robot. 
-    Any violation or improper use can cause serious injury to those involved and severely damage the hardware.
+> [!WARNING] 
+> Pay absolute attention to the power contacts, the `Battery Pack` exposes the contacts so that they can be inserted into the robot. 
+> Any violation or improper use can cause serious injury to those involved and severely damage the hardware.
 
 
 If there are alarms, contact the persons in charge.
@@ -57,8 +57,8 @@ Storage in robot arena in the cabinet shown in this image:
 </tr></table>
 </center>
 
-!!!note
-    The `Battery pack`, with no connections, is to be considered as switched off (sleep mode) but ready to supply power when plugged into the robot. 
+> [!NOTE]  
+> The `Battery pack`, with no connections, is to be considered as switched off (sleep mode) but ready to supply power when plugged into the robot. 
 
 
 
@@ -130,8 +130,8 @@ In this situation you have the robot switched on and working properly. The power
 
 2) You want to make a ‘`hot swap`’ without interrupting the robot's functionality. In this case follow the steps listed here:
 
-!!!note
-    Pay attention to these steps, you might suddenly switch off the robot and damage it.
+> [!NOTE]  
+> Pay attention to these steps, you might suddenly switch off the robot and damage it.
 
 - Insert the `Battery pack` with the robot powered through the external power cable.
 - Check from the display on the front that the `Battery pack` is charged and free of allarms.
@@ -149,8 +149,8 @@ In this situation, the robot is correctly functioning and powered by the `Batter
 
 2) If you do not want to interrupt the robot's functionality, you can perform a ‘`hot swap`’. You again have two options, continue with an external power supply or use a new `Battery pack`. Follow the steps for this procedure:
 
-!!!note
-    Pay attention to these steps, you might suddenly switch off the robot and damage it.
+> [!NOTE]  
+> Pay attention to these steps, you might suddenly switch off the robot and damage it.
 
 - The robot is functional and receives power from the `Battery pack` to be replaced. Prepare the external power supply, connect the blue connector to the robot's power port.
 - Activate the power supply so that it can supply power to the robot.
